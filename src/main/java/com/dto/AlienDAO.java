@@ -16,6 +16,7 @@ public class AlienDAO implements IAlien {
 	@Override
 	public Alien getAlien(int id) {
 		// TODO Auto-generated method stub
+		int o;
 		return null;
 	}
 	
